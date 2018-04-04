@@ -1,6 +1,6 @@
 Author = "Xian";
 onLoadName = "PDG Aviation Training - Stratis";
-onLoadMission = "Learning how helicopters work! (hint, dont list to any shit about 'lift, thrust to drag ratio or vortex ring state', we all know they work by magic.)";
+onLoadMission = "Learning how helicopters work! (hint, dont listen to any shit about 'lift, thrust to drag ratio or vortex ring state', we all know they work by magic.)";
 loadScreen="pdglogo.jpg";
 
 
